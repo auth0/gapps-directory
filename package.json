@@ -1,14 +1,14 @@
 {
   "name": "gapps-directory",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "(Unofficial) Google Apps Directory Api client library.",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha --require should -t 5000"
   },
-  "repository": { 
-    "type" : "git", 
-    "url" : "http://github.com/auth0/gapps-directory.git"
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/auth0/gapps-directory.git"
   },
   "keywords": [
     "google",
