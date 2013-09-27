@@ -1,6 +1,6 @@
 {
   "name": "gapps-directory",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "(Unofficial) Google Apps Directory Api client library.",
   "main": "lib/index.js",
   "scripts": {
