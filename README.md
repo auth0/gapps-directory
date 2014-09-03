@@ -86,7 +86,3 @@ module.exports = {
   "refresh_token":          "an-admin-refresh-token"
 };
 ~~~
-
-## License
-
-**MIT 2013** - AUTH10 LLC
