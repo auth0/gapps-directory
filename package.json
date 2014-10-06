@@ -19,7 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "request": "~2.12.0",
-    "refresh-token": "~0.0.2",
+    "refresh-token": "~0.1.0",
     "async": "~0.1.22",
     "xtend": "~1.0.3"
   },
