@@ -18,7 +18,7 @@
   "author": "José F. Romaniello <jfromaniello@gmail.com> (http://joseoncode.com)",
   "license": "MIT",
   "dependencies": {
-    "request": "~2.42.0",
+    "request": "~2.73.0",
     "refresh-token": "~0.1.0",
     "async": "~0.1.22",
     "xtend": "~1.0.3"
